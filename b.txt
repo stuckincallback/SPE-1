@@ -2,6 +2,14 @@ ravindra singh
 iiit b
 mtech
 
+<<<<<<< HEAD
 Hii I am ravi
 Hii I am ravi 2
 Hii I am ravi 3
+=======
+<<<<<<< HEAD
+Hii I am ravindra singh
+=======
+Hii I am ravi
+>>>>>>> 30ea8ad3b8d7d122fcde32352b8d03a848928226
+>>>>>>> 7560a2dedf1b22a82fad18553b725034e01e31d4
